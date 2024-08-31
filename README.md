@@ -1,1 +1,3 @@
-# OCR-in-Archaeological-Site-Sign
+# OCR in Archaeological Site Sign
+
+This project provides a straightforward and introductory guide to Optical Character Recognition (OCR), focusing on extracting text from an Archaeological Site Sign using Python. It walks you through the essential steps to set up and implement OCR, making it accessible even for beginners. By leveraging popular Python libraries such as Tesseract, OpenCV, and PIL, you'll learn how to process an image, detect and extract the text, and then save this text content into a file. This process not only preserves the information from the image but also makes it easier to analyze and use in further research or documentation. The project serves as a practical introduction to OCR, offering hands-on experience with a real-world application.
