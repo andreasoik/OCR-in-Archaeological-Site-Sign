@@ -1,1 +1,1 @@
-# OCR-in-Archaeological-Site-Signs
+# OCR-in-Archaeological-Site-Sign
